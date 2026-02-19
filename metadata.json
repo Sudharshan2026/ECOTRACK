@@ -1,0 +1,7 @@
+{
+  "name": "EcoTrack: Personalized Carbon Footprint Manager",
+  "description": "A comprehensive application to track, calculate, and reduce daily carbon emissions through data-driven insights and AI-powered sustainability recommendations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
